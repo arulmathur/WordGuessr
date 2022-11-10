@@ -6,7 +6,7 @@
 using namespace std;
 
 //constant declarations
-const char WORDFILENAME[] = "/Users/arul/Desktop/p5_words.txt";
+const char WORDFILENAME[] = "REPLACE WITH PATH TO FILE CONTAINING LIST OF WORDS";
 const int MAXWORDS = 10000;
 const int WORDLENMAX = 6;
 
